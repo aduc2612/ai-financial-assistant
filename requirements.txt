@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+langgraph
+langchain-groq
+langchain-chroma
+langchain-community
+langchain-ollama
+uuid
+pandas
+ddgs
